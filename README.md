@@ -33,7 +33,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Medeiros20/Conceitos-basicos-de-Java.git
+git clone https://github.com/Dev-Joao-Medeiros/Conceitos-basicos-de-Java.git
 
 # Acesse a pasta do projeto
 cd Conceitos-basicos-de-Java
